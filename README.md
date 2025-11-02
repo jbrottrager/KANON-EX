@@ -15,4 +15,4 @@ Die Analyse zeigt, welche Autor:innen und Werke langfristig im Schulkanon präse
 - Analyse mit Python und R: Zeitreihen, Heatmaps, Netzwerkmodelle, Entscheidungsbäume  
 
 ## Datensatz
-Die aufbereiteten Daten sind offen verfügbar und für weitere Analysen nutzbar
+Die aufbereiteten Daten sind offen verfügbar und für weitere Analysen nutzbar.
