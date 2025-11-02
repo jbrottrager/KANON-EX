@@ -18,7 +18,7 @@ setwd("C:\\Users\\Brottrager\\Documents\\Projects\\CANON-EX")
 
 # German National Library data
 dnb <- read.csv(
-  "251014_dnb_results_filtered.csv",
+  "dnb_results_filtered.csv",
   sep = ";",
   stringsAsFactors = FALSE,
   encoding = "UTF-8"
