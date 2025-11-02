@@ -1,7 +1,10 @@
 # KANON-EX: Der Schulkanon als Kanonisierungsexperiment
 
 **KANON-EX** untersucht, wie Schullektüre Kanonisierungsprozesse prägt.  
-Dazu wurden die Abiturleselisten der letzten 20 Jahre (2006–2026) aller Bundesländer mit Zentralabitur erhoben, kuratiert und mit bibliografischen Informationen der **Deutschen Nationalbibliothek (DNB)** verknüpft.
+Dazu wurden die Abiturleselisten der letzten 20 Jahre (2006–2026) aller Bundesländer mit Zentralabitur erhoben, kuratiert und mit bibliografischen Informationen der **Deutschen Nationalbibliothek (DNB)** verknüpft.  
+
+> Dieses Projekt wurde im Rahmen des HERMES-Forschungsstudienprogramms unterstützt.  
+> Weitere Informationen zu HERMES: [hermes-hub.de](https://hermes-hub.de/forschen/forschungsstudien/forschungsstudien.html)
 
 ## Ziel
 Die Analyse zeigt, welche Autor:innen und Werke langfristig im Schulkanon präsent sind und wie sich deren Sichtbarkeit über Zeit und Bundesländer verändert. Besonderes Augenmerk liegt auf:
